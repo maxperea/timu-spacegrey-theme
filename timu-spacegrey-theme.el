@@ -1633,7 +1633,7 @@ Sourced other themes to get information about font faces for packages.")
      `(sh-quoted-exec ((,class (:foreground ,fg :weight bold))))
 
 ;;;; show-paren - dark
-     `(show-paren-match ((,class (:foreground ,red :weight ultra-bold :underline ,red))))
+     `(show-paren-match ((,class (:foreground ,red :weight ultra-bold))))
      `(show-paren-mismatch ((,class (:foreground ,spacegrey0 :background ,red :weight ultra-bold))))
 
 ;;;; smart-mode-line - dark
